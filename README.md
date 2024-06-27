@@ -9,4 +9,4 @@ password = 159753
 
 Agora é possível assistir tudo o que se passou na ausencia dos pais
 
-Todas as imagens que conpõe o video estão em uma pasta chamada bibliotecas\imagens que esta na pasta do projeto DEBUG
+Todas as imagens que compõe o video estão em uma pasta chamada bibliotecas\imagens que esta na pasta do projeto DEBUG
