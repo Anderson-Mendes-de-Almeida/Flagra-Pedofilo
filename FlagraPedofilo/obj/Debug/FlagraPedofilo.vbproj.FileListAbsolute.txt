@@ -1,0 +1,42 @@
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.exe.config
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.exe.manifest
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.application
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.exe
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.xml
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.Form1.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.Form2.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.FormConfig.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.Formquemsomos.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.Resources.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.SplashScreen.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.vbproj.GenerateResource.Cache
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.exe.manifest
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.application
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.exe
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.xml
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.FormLogin.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.pdb
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.pdb
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.FormSobre.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.vbprojResolveAssemblyReference.cache
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.Form1.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.Form2.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.FormConfig.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.FormLogin.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.Formquemsomos.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.FormSobre.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.Resources.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.SplashScreen.resources
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.vbproj.GenerateResource.Cache
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.vbproj.CoreCompileInputs.cache
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.exe
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.xml
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.pdb
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.exe.config
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.exe.manifest
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.application
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.exe
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.pdb
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\bin\Debug\FlagraPedofilo.xml
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.exe.manifest
+E:\Programação\Visual Studio\FlagraPedofilo\FlagraPedofilo\obj\Debug\FlagraPedofilo.application

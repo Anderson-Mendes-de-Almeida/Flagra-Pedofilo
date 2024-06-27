@@ -1,0 +1,32 @@
+D:\1-Backup_VisualStudio\Backup_Projetos\FlagraPedofilo\FlagraPedofilo\bin\Release\FlagraPedofilo.exe.config
+D:\1-Backup_VisualStudio\Backup_Projetos\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Form1.resources
+D:\1-Backup_VisualStudio\Backup_Projetos\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Form2.resources
+D:\1-Backup_VisualStudio\Backup_Projetos\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.FormConfig.resources
+D:\1-Backup_VisualStudio\Backup_Projetos\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Formquemsomos.resources
+D:\1-Backup_VisualStudio\Backup_Projetos\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.SplashScreen.resources
+D:\1-Backup_VisualStudio\Backup_Projetos\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.vbproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\FlagraPedofilo\FlagraPedofilo\bin\Release\FlagraPedofilo.exe.config
+C:\Users\Igor\Desktop\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Form1.resources
+C:\Users\Igor\Desktop\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Form2.resources
+C:\Users\Igor\Desktop\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.FormConfig.resources
+C:\Users\Igor\Desktop\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Formquemsomos.resources
+C:\Users\Igor\Desktop\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.SplashScreen.resources
+C:\Users\Igor\Desktop\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.vbproj.GenerateResource.Cache
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Release\FlagraPedofilo.exe.config
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Release\FlagraPedofilo.exe.manifest
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Release\FlagraPedofilo.application
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Release\FlagraPedofilo.exe
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\bin\Release\FlagraPedofilo.xml
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Form1.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Form2.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.FormConfig.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.FormLogin.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Formquemsomos.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.FormSobre.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.Resources.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.SplashScreen.resources
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.vbproj.GenerateResource.Cache
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.exe.manifest
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.application
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.exe
+C:\Users\Igor\Documents\Visual Studio 2013\Projects\FlagraPedofilo\FlagraPedofilo\obj\Release\FlagraPedofilo.xml
